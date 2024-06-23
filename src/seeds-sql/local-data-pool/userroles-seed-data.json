@@ -1,0 +1,8 @@
+{
+  "ENTITY_NAME": "UserRole",
+  "DATA": [
+    { "id": "a78c2472-d73d-412c-8642-a2c532761578", "name": "ADMIN" },
+    { "id": "24c94812-d10f-4046-8b5d-2d3b2379cd3f", "name": "MANAGER" },
+    { "id": "9d001c15-f81a-4354-8494-9aa9e310fcc1", "name": "CLIENT" }
+  ]
+}

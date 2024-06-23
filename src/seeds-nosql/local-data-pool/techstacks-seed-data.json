@@ -1,0 +1,9 @@
+{
+  "ENTITY_NAME": "TechStack",
+  "DATA": [
+    { "_id": "665bd62538828220551a9a21", "name": "React" }, 
+    { "_id": "665bd62ab4f500679ffe9820", "name": "Angular" },
+    { "_id": "665bd61f461eb2a2a1e06adf", "name": "Next" },
+    { "_id": "665de61e2fc4d2679a19d28c", "name": "Node" }
+  ]
+}
