@@ -12,7 +12,7 @@ const {
 const dotenv = require("dotenv");
 
 // Load environment variables from .env file into process.env
-dotenv.config();
+dotenv.config({ path: '../.env' });
 
 const DATABASE_SEEDER_NOSQL = {
   DATABASE_TYPE: DATABASE_TYPE.MONGO_DB,
